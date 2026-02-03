@@ -1,9 +1,9 @@
 Walsall,
 Months,Dates
-January,"19,20,26,30"
-February,"4,5,12,13,19,20,26,27"
-March, "4,5,9,10,19,20,26,27"
-April,
+January,""
+February,"12,13,16,17,18,20,25,26"
+March, "2,4,5,9,13,16,17,18,23,25,26,31"
+April, "1,2,6,10,13,14,15,20,22,28,29,30"
 May,
 June,
 July,
@@ -15,7 +15,7 @@ December,""
 ,
 Birmingham,
 Months,Dates
-January,"19,20,26,30"
+January,""
 February,"4,5,12,13,19,20,26,27"
 March, "4,5,9,10,19,20,26,27"
 April,
@@ -29,7 +29,7 @@ November,
 December,
 ,
 Manchester,Dates
-January,"19,20,26,30"
+January,""
 February,"4,5,12,13,19,20,26,27"
 March, "4,5,9,10,19,20,26,27"
 April,
